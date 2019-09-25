@@ -64,7 +64,7 @@ sp <- ggplot(alabama, aes(x=income2,y=physhlth)) +geom_boxplot()
 sp +ylim(0,30)
 ```
 
- This question explores whether there is a possible correlation between income and health as rich could afford better facilites and diet. But the result show that people with lesser income tend to feel more healthy physically on the basis of higher median and higher IQR. It could be due to the fact their job are more physically active and thus help in maintaining their health
+ This question explores whether there is a possible correlation between income and health as rich could afford better facilites and diet. But the result show that people with lesser income tend to feel more healthy physically on the basis of higher median and higher IQR. It could be due to the fact their job are more physically active and thus help in maintaining their health.
 
 ```
 
