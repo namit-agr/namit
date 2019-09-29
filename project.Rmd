@@ -20,7 +20,7 @@ library(statsr)
 
 ```{r load data}
 
-load("brfss2013.RData")
+load("brfss2013.Rdata")
 ```
 
 
